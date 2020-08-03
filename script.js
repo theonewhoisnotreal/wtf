@@ -14,13 +14,13 @@ const COMMANDS = {
   downloads:
     'To download one of my projects, use the parent command along with your choice (e.g., downloadsurena)<br><br> Supported download commands: <span class="code">surena</span>, <span class="code">tokenchecker</span>, <span class="code">mcc</span>, <span class="code">disbump</span>',
   downloadsurena:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/738811295729582110/Surena2.0.rar' class='success link'>Surena2.0.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978579441614908/Surena2.1.rar' class='success link'>Surena2.1.rar</a>",
   downloadtokenchecker:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/738811721342255174/TokenChecker3.0.rar' class='success link'>TokenChecker3.0.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978321437130883/TokenChecker4.0.rar' class='success link'>TokenChecker4.0.rar</a>",
   downloadmcc:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/738812433870880768/MCC.rar' class='success link'>MCC3.1.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978339250602055/MCC.rar' class='success link'>MCC4.0.rar</a>",
   downloaddisbump:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739358950805209108/Disbump.rar' class='success link'>Disbump.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978328995528834/Disbump2.0.rar' class='success link'>Disbump2.0.rar</a>",
   docs:
     "<a href='https://jawad-dev.github.io/Tool-Documentation/' class='success link'>Documentation</a>",
 
