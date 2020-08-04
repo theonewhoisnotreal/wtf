@@ -14,7 +14,7 @@ const COMMANDS = {
   downloads:
     'To download one of my projects, use the parent command along with your choice (e.g., downloadsurena)<br><br> Supported download commands: <span class="code">surena</span>, <span class="code">tokenchecker</span>, <span class="code">mcc</span>, <span class="code">disbump</span>',
   downloadsurena:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978579441614908/Surena2.1.rar' class='success link'>Surena2.1.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/740234311906754650/Surena.rar' class='success link'>Surena2.2.rar</a>",
   downloadtokenchecker:
     "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978321437130883/TokenChecker4.0.rar' class='success link'>TokenChecker4.0.rar</a>",
   downloadmcc:
