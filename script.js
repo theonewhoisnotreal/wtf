@@ -18,7 +18,7 @@ const COMMANDS = {
   downloadtokenchecker:
     "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978321437130883/TokenChecker4.0.rar' class='success link'>TokenChecker4.0.rar</a>",
   downloadmcc:
-    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/740119241851666513/MCC.rar' class='success link'>MCC4.0.rar</a>",
+    "<a href='https://cdn.discordapp.com/attachments/737567704403411005/740119241851666513/MCC.rar' class='success link'>MCC.rar</a>",
   downloaddisbump:
     "<a href='https://cdn.discordapp.com/attachments/737567704403411005/739978328995528834/Disbump2.0.rar' class='success link'>Disbump2.0.rar</a>",
   docs:
